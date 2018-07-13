@@ -29,39 +29,6 @@ Features
 •	DSH support ads.
 •	You can display the hotels rates and also you can add a rate for hotel.
 
-User Interface Mocks
-
-
- 
- 
- 
-
- 
-
-
- 
- 
-
-
- 
-
- 
-
-
- 
-Hotel reservation UI:
- 
-
- 
- 
-
- 
- 
- 
-
-
-
-
 
 Key Considerations
 
@@ -70,15 +37,6 @@ How will your app handle data persistence?
 DSH use SQLite database with content provider
 Describe any edge or corner cases in the UX.
 This is a simple flow chart describe the cases in the UX 
-
-Simple Flow chart 1:
- 
-
-
-
-Simple Flow chart 2:
- 
-
 
 
 Describe any libraries you’ll be using and share your reasoning for including them.
